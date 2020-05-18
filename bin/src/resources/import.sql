@@ -1,0 +1,1 @@
+INSERT INTO WEB_USER (user_name, password) VALUES ('test', 'test')
